@@ -51,7 +51,7 @@ body {
 .btns button {
     width: 80px;
     height: 80px;
-    background-color: transparent;
+    background-color: #30383f;
     color: #fff;
     border: none;
     border-radius: 50%;
@@ -84,7 +84,7 @@ body {
 .lapContainer {
     width: 200px;
     height: 150px;
-    color: #fff;
+    color: #FFCD00;
     padding-left: 30px;
     overflow: auto;
     display: flex;
@@ -96,7 +96,7 @@ body {
     width: 120px;
     height: 30px;
     font-size: 18px;
-    border-bottom: 1px solid #fff;
+    border-bottom: 1px solid #FFCD00;
     margin-bottom: 5px;
 }
 
