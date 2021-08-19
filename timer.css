@@ -51,12 +51,12 @@ nav :nth-child(1){
 a:hover{
     background-color: #43505a;
 }
-.display{
+#display{
     width: 100%;
     display: flex;
     justify-content: center;
 }
-.set-timer{
+#set-timer{
     height: 50px;
     display: flex;
     flex-direction: row;
@@ -78,9 +78,22 @@ input[type="number"]::placeholder {
     font-weight: 600;
     font-size: 700%;
 }
-#wrap-button{
+.wrap-button{
     display: flex;
-    justify-content: center;
-    height: 1000px;
-    align-items: center;
+    height: 600px;
+    align-items: flex-end;
+    position: relative;
+    left: 10px;
+}
+#change-timer{
+    height: 50px;
+    width: 200px;
+    font-size: 150%;
+    background-color: #191e22;
+    border: 1px solid #191e22;
+    color: #FFCD00;
+}
+#change-timer:hover{
+    background-color: #212930;
+    border: 1px solid #212930;
 }
