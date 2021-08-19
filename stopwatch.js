@@ -124,4 +124,3 @@ function Stopwatch(elem) {
 
     this.isOn = false;
 }
-start
