@@ -70,8 +70,8 @@ a:hover{
     margin: auto;
     margin-top: 35px;
     font-size: 150%;
-    font-weight: 600;
-    background-color: #FFCD00;
-    color: #30383f;
+    font-weight: 400;
+    background-color:#30383f ;
+    color:  #FFCD00;
     border: none;
 }
